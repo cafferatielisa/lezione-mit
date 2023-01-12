@@ -1,0 +1,11 @@
+ <h1>Titolo pagina</h1>
+<h2>Titolo pagina piccolo</h2>
+<p>Paragrafo</p>
+<div> generic block section tag</div> 
+<span>generic inline section tag</span>
+<a href="link here"> name link</a>
+<image src="venecia.jpg"></image>
+Liste
+<ol> lista ordinata (1,2,3...) </ol>
+<ul> lista non ordinata (-,+) </ul>
+<li>elementi della lista </li>
